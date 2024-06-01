@@ -1,4 +1,4 @@
-# TECHIN517-Manipulation
+# TECHIN517
 
 ## Instructions for Camera Setup D435i
 Refer to this link for installing dependencies, librealsense2 and the build. 
