@@ -16,7 +16,7 @@ This project involves the development of a robotic system aimed at aiding health
 
 ## Documentation
 
-The documentation for the project is available at [Documentation](./Documentation).
+The documentation for the project is available at [Documentation](./Multi_Robot_Orchestration_for_Item_Delivery_in_Health_Care_Facilities.pdf).
 
 ## Repository Contents
 
