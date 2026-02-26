@@ -14,9 +14,6 @@ This project involves the development of a robotic system aimed at aiding health
 - **Object Manipulation:** Implemented the Kinova robotic arm for accurate object manipulation, integrated with YOLO-V8 for object detection.
 - **High Accuracy:** Achieved high accuracy in object handling through extensive parameter tuning and iterative testing.
 
-## Documentation
-
-The documentation for the project is available at [Documentation](./Multi_Robot_Orchestration_for_Item_Delivery_in_Health_Care_Facilities.pdf).
 
 ## Repository Contents
 
